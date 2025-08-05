@@ -1,4 +1,4 @@
-<h1 align="center">Hi >✌, I'm Thimira Pathum</h1>
+<h1 align="center">Hi ✌, I'm Thimira Pathum</h1>
 <h3 align="center">🤖 Building the logic behind seamless web experiences</h3>
 
 <p align="center">
