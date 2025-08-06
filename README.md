@@ -20,10 +20,12 @@
 
 <p align="left">
   <a href="https://twitter.com/pathumkasthuri2" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30" alt="Twitter"/>
+    <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/twitterx--v1.png" alt="twitterx--v1"/>
   </a>
+  
   <a href="https://fb.com/thimira.pathum.2025" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="30" alt="Facebook"/>
+    <img src="https://img.icons8.com/fluency/48/facebook-new.png" width="50" alt="Facebook"/>
+    
   </a>
 </p>
 
@@ -31,42 +33,33 @@
 
 ### 🛠️ Languages & Tools
 
-#### 💻 Programming Languages
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
-</p>
+  <img src="https://www.svgrepo.com/download/452091/python.svg" width="50" alt="Python"/>
+  <img src="https://www.svgrepo.com/download/452088/php.svg" width="50" alt="PHP"/>
+  <img src="https://www.svgrepo.com/download/349419/javascript.svg" width="50" alt="JavaScript"/>
+  <img src="https://www.svgrepo.com/download/303388/java-4-logo.svg" width="50" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" alt="C"/>
 
-#### 🌐 Frontend Development
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" alt="CSS3"/>
-</p>
 
-#### 🧩 Backend & Frameworks
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="40" alt="Laravel"/>
-</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" alt="CSS3"/>
 
-#### 🛢️ Databases
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" alt="MongoDB"/>
-</p>
 
-#### ☁️ Cloud & DevOps
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" alt="AWS"/>
-</p>
 
-#### 🖥️ Operating Systems & Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" alt="Blender"/>
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" alt="Unity"/>
+
+  
+  <img width="50" height="50" src="https://img.icons8.com/nolan/64/laravel.png" alt="laravel"/>
+
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50" alt="MongoDB"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" alt="AWS"/>
+
+
+<img width="50" height="50" src="https://img.icons8.com/color/50/linux.png" alt="linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="50" alt="Blender"/>
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="50" alt="Unity"/>
 </p>
 
 ---
