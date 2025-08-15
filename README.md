@@ -2,9 +2,9 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hey there, I'm **Thimira Pathum**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=FF6B35&background=00000000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=800&height=100&lines=%F0%9F%9A%80+FullStack+Wizard+%26+Code+Architect;%F0%9F%8C%8D+Transforming+Ideas+into+Digital+Reality" alt="Animated Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=FF6B35&background=00000000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=800&height=100&lines=%F0%9F%9A%80+FullStack+Developer+%26+Code+Architect;%F0%9F%8C%8D+Transforming+Ideas+into+Digital+Reality" alt="Animated Typing" />
 
-<p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=thimirapathum&label=Profile%20Views&color=ff6b35&style=for-the-badge&labelColor=1a1a2e" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/thimirapathum?label=Followers&style=for-the-badge&color=ff6b35&labelColor=1a1a2e" alt="Followers" />
   <img src="https://img.shields.io/badge/Focus-Laravel%20%26%20Python-ff6b35?style=for-the-badge&labelColor=1a1a2e" alt="Focus" />
@@ -18,14 +18,14 @@
 
 ## 🌟 **The Developer Behind the Code**
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 <div align="left">
 
 ```javascript
 const thimiraPathum = {
     name: "Thimira Pathum",
-    title: "FullStack Architect & Problem Solver",
+    title: "FullStack Developer & Problem Solver",
     location: "Sri Lanka 🇱🇰",
     
     currentlyBuilding: {
@@ -37,19 +37,16 @@ const thimiraPathum = {
     passions: [
         "🔥 Crafting scalable systems",
         "🌱 Bridging tech with agriculture", 
-        "⚡ Performance optimization wizardry",
+        "⚡ Performance optimization",
         "🎨 3D modeling & game development"
     ],
     
     philosophy: "Clean code isn't written to satisfy the machine, but the human mind",
     
-    whenNotCoding: ["🌾 Exploring AgriTech innovations", "🎮 Unity experiments", "☕ Coffee brewing"],
+    whenNotCoding: ["🌾 Exploring AgriTech", "🎮 Unity experiments", "☕ Coffee brewing"],
     
-    lifeGoal: "Make technology accessible to rural communities through innovative solutions"
+    lifeGoal: "Make technology accessible to rural communities"
 };
-
-// Fun fact: I debug faster with music on! 🎵
-console.log(thimiraPathum.philosophy);
 ```
 
 </div>
@@ -88,17 +85,17 @@ console.log(thimiraPathum.philosophy);
 
 <div align="center">
 
-## 🛠️ **My Arsenal of Technologies**
+## 🛠️ **My Technology Stack**
 
 <img src="https://skillicons.dev/icons?i=python,php,js,java,c,html,css,laravel,mysql,mongodb,aws,linux,unity,blender&perline=7" />
 
-### **🚀 What I'm Currently Mastering**
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
+### **Currently Mastering**
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
 </div>
 
@@ -106,39 +103,39 @@ console.log(thimiraPathum.philosophy);
 
 <div align="center">
 
-## 📊 **GitHub Journey & Achievements**
+## 📊 **GitHub Statistics**
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=thimirapathum&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b35&icon_color=ff6b35&text_color=ffffff&ring_color=ff6b35"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=thimirapathum&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b35&icon_color=ff6b35&text_color=ffffff"/>
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=thimirapathum&theme=radical&hide_border=true&background=0d1117&stroke=ff6b35&ring=ff6b35&fire=ff6b35&currStreakLabel=ff6b35"/>
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thimirapathum&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b35&text_color=ffffff"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thimirapathum&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b35&text_color=ffffff"/>
 
 </div>
 
 ---
 
-## 🎯 **2025 Mission Control**
+## 🎯 **2025 Goals**
 
 <table>
 <tr>
 <td width="50%">
 
-### 🚀 **Active Objectives**
-- 📚 **Laravel Mastery** - Advanced patterns & optimization  
-- 🤖 **AI Integration** - Smart agriculture solutions
-- 🌐 **Cloud Architecture** - AWS & containerization
-- 📱 **Mobile API** - Flutter integration ready
-- 🔧 **DevOps Pipeline** - CI/CD automation
+### 🚀 **Technical Focus**
+- 📚 **Laravel Advanced Patterns**
+- 🤖 **AI Integration in Agriculture**
+- 🌐 **Cloud Architecture with AWS**
+- 📱 **Mobile API Development**
+- 🔧 **DevOps & CI/CD Automation**
 
 </td>
 <td width="50%">
 
-### 💡 **Innovation Lab**
-- 🌾 **Smart Farming IoT** - Sensor data analytics
-- 🔬 **Machine Learning** - Crop prediction models  
-- 🎮 **Game Dev Side Quest** - Unity farming simulator
-- 📊 **Data Visualization** - Agricultural insights dashboard
-- 🚀 **Open Source** - Contributing to Laravel ecosystem
+### 💡 **Innovation Projects**
+- 🌾 **Smart Farming IoT Solutions**
+- 🔬 **Machine Learning for Crops**
+- 🎮 **Unity Farming Simulator**
+- 📊 **Agricultural Data Analytics**
+- 🚀 **Open Source Contributions**
 
 </td>
 </tr>
@@ -148,15 +145,15 @@ console.log(thimiraPathum.philosophy);
 
 <div align="center">
 
-### 💭 **Code Philosophy**
+### 💭 **Developer Quote**
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 
-### 🎵 **Current Vibe**
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com)  
-*🎧 Currently listening to: Lo-fi Hip Hop & Synthwave while coding*
+### 🎵 **Coding Soundtrack**
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com)  
+*Currently listening to: Lo-fi Hip Hop & Synthwave*
 
-### 📈 **Activity Graph**
+### 📈 **Contribution Activity**
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=thimirapathum&bg_color=0d1117&color=ff6b35&line=ff6b35&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 
 </div>
