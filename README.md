@@ -53,10 +53,6 @@ const thimiraPathum = {
 
 <br clear="right"/>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thimirapathum&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
-</div>
-
 ---
 
 <div align="center">
@@ -113,7 +109,7 @@ const thimiraPathum = {
 </div>
 
 ---
-
+<div align="center">
 ## 🎯 **2025 Goals**
 
 <table>
@@ -141,22 +137,9 @@ const thimiraPathum = {
 </tr>
 </table>
 
----
-
-<div align="center">
-
-### 💭 **Developer Quote**
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-
-### 🎵 **Coding Soundtrack**
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com)  
-*Currently listening to: Lo-fi Hip Hop & Synthwave*
-
-### 📈 **Contribution Activity**
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thimirapathum&bg_color=0d1117&color=ff6b35&line=ff6b35&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-
 </div>
+
+
 
 ---
 
