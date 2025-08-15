@@ -6,8 +6,6 @@
 </p>
 
 ---
-## Achievements 🦈
-![Pull Shark x2](https://img.shields.io/badge/Pull%20Shark-x2-blue?style=for-the-badge&logo=github)
 
 ### 🧑‍💻 About Me
 
